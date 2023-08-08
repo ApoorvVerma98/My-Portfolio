@@ -1,10 +1,9 @@
-# Apoorv Verma - Portfolio Website - (https://apoorv-verma-portfolio.vercel.app/)
+## 🌐[Apoorv Verma - Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)
 
 <div align="center">
   <img src="./Images/readme-img1.png" alt="Portfolio Cover" width="600" />
 </div>
 
-## 🌐 [Visit Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)
 Welcome to my vibrant and dynamic portfolio website v2.0! 🚀 Explore a fusion of technology, creativity, and personal growth, encapsulated in this digital journey.
 
 ## 🚀 Overview
