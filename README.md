@@ -1,12 +1,11 @@
 # Apoorv Verma - Portfolio Website v2.0
 
 <div align="center">
-  <img src="./Images/cover-image.png" alt="Portfolio Cover" width="600" />
+  <img src="./Images/readme-img1.png" alt="Portfolio Cover" width="600" />
 </div>
 
-Welcome to my vibrant and dynamic portfolio website v2.0! 🚀 Explore a fusion of technology, creativity, and personal growth, encapsulated in this digital journey.
-
 ## 🌐 [Visit Portfolio Website](https://apoorv-verma-portfolio.vercel.app/)
+Welcome to my vibrant and dynamic portfolio website v2.0! 🚀 Explore a fusion of technology, creativity, and personal growth, encapsulated in this digital journey.
 
 ## 🚀 Overview
 
@@ -37,16 +36,7 @@ Dive into an immersive experience that showcases my skills, projects, and person
 3. Dive into each project's details, interact with live demos, and explore GitHub repositories.
 4. Capture a snapshot of my journey by downloading the PDF version of my resume.
 5. Connect with me through the provided social media links and let's embark on a journey of innovation and growth together!
-
 ## 📸 Screenshots
-
-![Screenshot](./Images/screenshot-projects.png)
-![Screenshot](./Images/screenshot-about.png)
-
-## 📄 License
-
-This project is open-source and licensed under the [MIT License](./LICENSE).
-
+![Screenshot](./Images/readme-img.png)
 ---
-
 Thank you for visiting my portfolio website! 🌟 If you'd like to get in touch, collaborate, or have any questions, feel free to reach out through the provided links. Let's create something amazing together! 🚀🌈
