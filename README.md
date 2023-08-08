@@ -37,6 +37,6 @@ Dive into an immersive experience that showcases my skills, projects, and person
 4. Capture a snapshot of my journey by downloading the PDF version of my resume.
 5. Connect with me through the provided social media links and let's embark on a journey of innovation and growth together!
 ## 📸 Screenshots
-![Screenshot](./Images/readme-img.png)
+![Screenshot](./Images/readme-img2.png)
 ---
 Thank you for visiting my portfolio website! 🌟 If you'd like to get in touch, collaborate, or have any questions, feel free to reach out through the provided links. Let's create something amazing together! 🚀🌈
