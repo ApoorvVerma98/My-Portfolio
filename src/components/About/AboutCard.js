@@ -40,8 +40,7 @@ function AboutCard() {
             technology and more, embracing innovation and growth.
             <br />
             <br />
-            Thank you for considering me, Apoorv Verma, for your esteemed
-            ventures. Let's embark on a journey of innovation and growth
+            Let's embark on a journey of innovation and growth
             together.
           </p>
           <ul>
