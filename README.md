@@ -4,7 +4,7 @@
   <img src="./Images/readme-img1.png" alt="Portfolio Cover" width="600" />
 </div>
 
-Welcome to my vibrant and dynamic portfolio website v2.0! 🚀 Explore a fusion of technology, creativity, and personal growth, encapsulated in this digital journey.
+Welcome to my vibrant and dynamic portfolio website 🚀 Explore a fusion of technology, creativity, and personal growth, encapsulated in this digital journey.
 
 ## 🚀 Overview
 
