@@ -67,5 +67,5 @@ function Techstack() {
     </Row>
   );
 }
-
+ 
 export default Techstack;

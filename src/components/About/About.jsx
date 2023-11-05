@@ -25,8 +25,8 @@ function About() {
               Know Who <strong className="purple">I'M</strong>
             </h1>
             <h4>
-              Dynamic Professional with a Passion for
-              Technology, Writing blogs, and Gaming.
+            <strong className="purple">Dynamic Professional</strong> with a<strong className="purple"> Passion for Technology</strong>,<strong className="purple">Writing blogs</strong> ,
+              and <strong className="purple">Gaming</strong>.
             </h4>
             <Aboutcard />
           </Col>
@@ -36,8 +36,6 @@ function About() {
             className="about-img"
           >
             <img src={AboutMe} alt="about" className="img-fluid" />
-
-            
           </Col>
         </Row>
         <h1 className="project-heading">

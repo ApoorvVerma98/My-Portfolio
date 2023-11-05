@@ -56,10 +56,10 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)", textAlign: "right" }}>
-            "Seek What Sets Your Soul On Fire !"
+          <strong className="purple">"Seek What Sets Your Soul On Fire !"</strong>
           </p>
           <footer className="blockquote-footer" style={{ textAlign: "right" }}>
-            Apoorv
+          <strong className="purple">  Apoorv Verma</strong>
           </footer>
         </blockquote>
       </Card.Body>
