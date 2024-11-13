@@ -32,7 +32,7 @@ function App() {
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
-        <Navbar />
+          <Navbar />
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />

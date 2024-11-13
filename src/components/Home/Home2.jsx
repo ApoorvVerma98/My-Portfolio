@@ -19,45 +19,55 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi there! 👋 I'm a passionate and enthusiastic Front-end
-              Developer. <br /> <br /> I got into programming, and ever since
-              then, it's been an exciting journey of continuous <br />learning and
-              growth in the tech world. 🚀
+              Hello there! 👋 I'm Apoorv, a passionate and driven Front-end
+              Developer with a deep love for creating seamless and intuitive web
+              applications. <br /> <br /> My journey in the tech world started
+              with a simple curiosity about how websites work. Since then, I’ve
+              immersed myself in continuous learning and development. 🚀
               <br />
-              <br />
-              I'm pretty good with tech stuff like{" "}
-              <i>
-                <b className="purple">HTML, CSS, React.js, and Javascript.</b>
-              </i>
-              <br />
-              <br />
-              I'm really into building cutting-edge stuff like :
-              <br />
+              <br />I have a strong foundation in{" "}
               <i>
                 <b className="purple">
-                  Responsive Design   </b>and <b className="purple"> CSS Frameworks</b> like <b className="purple">Bootstrap or
-                  Material UI, <br />
-                  User Experience (UX) Design, Performance Optimization, Web
-                  Accessibility,
-                   Testing, and Debugging.
+                  HTML, CSS, JavaScript, React.js, and TypeScript
                 </b>
               </i>
+              , and I’m constantly honing my skills with the latest technologies
+              and trends. 💻
+              <br />
+              <br />I specialize in building{" "}
+              <i>
+                <b className="purple">responsive designs</b> that look great on
+                any device, <b className="purple">UX/UI design</b> for
+                user-friendly interfaces, and utilizing{" "}
+                <b className="purple">CSS frameworks</b> like{" "}
+                <b className="purple">Bootstrap and Material UI</b> to create
+                visually appealing and efficient layouts. <br />
+                I'm also experienced with{" "}
+                <i>
+                  <b className="purple">
+                    performance optimization, web accessibility, testing, and
+                    debugging
+                  </b>
+                </i>
+                . 🛠️
+              </i>
               <br />
               <br />
-              I'm super stoked about creating user-centric experiences and
-              making websites accessible <br />and efficient.<br /><br /> I strongly believe that
-              a well-designed website can leave a lasting impression on users,
-              <br />and it's crucial to consider performance and accessibility while
-              crafting digital experiences.
+              I’m passionate about crafting accessible, high-performance
+              websites that offer a seamless user experience. A well-designed
+              website can make a lasting impression, and I strive to deliver
+              websites that are not only functional but also delightful to use.
+              🌟
               <br />
               <br />
-              Whenever I get the chance, I also dive into developing web
+              When I’m not building awesome front-end features, I dive into web
               applications using{" "}
               <i>
-                <b className="purple"> Next.js</b>
+                <b className="purple">Next.js</b>
               </i>
-              <br />It lets me use cool JavaScript libraries and frameworks to create
-              intuitive and seamless<br /> user experiences. It's so much fun! 🌟
+              , exploring the potential of advanced JavaScript libraries and
+              frameworks for building highly interactive and modern web
+              applications. 🚀
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -69,9 +79,10 @@ function Home2() {
 
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>FIND ME ON 🌐</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect </span>with me on
+              social media or drop me a message! 💬
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -81,7 +92,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <AiFillGithub size={30} />
                 </a>
               </li>
               <li className="social-icons">
@@ -91,17 +102,17 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <AiOutlineTwitter size={30} />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/apurv-verma/"
+                  href="https://www.linkedin.com/in/apoorvverma-sde/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <FaLinkedinIn size={30} />
                 </a>
               </li>
               <li className="social-icons">
@@ -111,7 +122,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <AiFillInstagram size={30} />
                 </a>
               </li>
             </ul>
@@ -121,4 +132,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;

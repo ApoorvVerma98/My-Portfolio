@@ -16,7 +16,7 @@ function ResumeNew() {
   }, []);
 
   return (
-    <div>
+    <div className="">
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
@@ -24,7 +24,7 @@ function ResumeNew() {
             variant="primary"
             href={pdf}
             target="_blank"
-            style={{ maxWidth: "250px" }}
+            style={{ maxWidth: "250px", marginTop: "30px"}}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
@@ -33,7 +33,7 @@ function ResumeNew() {
 
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+          <Page pageNumber={1} scale={width > 1200 ? 1.7   : width > 786 ? 0.4 : 0.6} />
           </Document>
         </Row>
 

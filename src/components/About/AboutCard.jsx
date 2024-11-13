@@ -29,10 +29,16 @@ function AboutCard() {
             mentored junior trainees on various ReactJS projects.
             <br />
             <br />
+            In addition to my work at Function Up, I have had the opportunity to work with
+            **Snabbtech**, a tech company that focuses on innovative solutions in the
+            frontend development space. This collaboration has significantly
+            enhanced my skills in web development, particularly with ReactJS and
+            modern JavaScript frameworks.
+            <br />
+            <br />
             I'm also a dedicated blogger, sharing insights on
-            mental health, time management, and personal growth.
-            Outside work, I enjoy road trips on my trusty bullet, appreciating
-            the beauty of the world.
+            mental health, time management, and personal growth. Outside work, I enjoy
+            road trips on my trusty bullet, appreciating the beauty of the world.
             <br />
             <br />
             I thrive on challenges and continuous learning, bringing a unique
@@ -56,10 +62,10 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)", textAlign: "right" }}>
-          <strong className="purple">"Seek What Sets Your Soul On Fire !"</strong>
+            <strong className="purple">"Seek What Sets Your Soul On Fire !"</strong>
           </p>
           <footer className="blockquote-footer" style={{ textAlign: "right" }}>
-          <strong className="purple">  Apoorv Verma</strong>
+            <strong className="purple">Apoorv Verma</strong>
           </footer>
         </blockquote>
       </Card.Body>
