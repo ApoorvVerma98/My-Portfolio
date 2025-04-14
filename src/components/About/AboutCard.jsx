@@ -9,60 +9,58 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             <br />
-            Hello, I'm Apoorv Verma—a dynamic individual with a passion for
-            technology, gaming, and writing. Originally from Patna, I relocated
-            to Bangalore in 2020 to pursue my professional goals.
+            Hello, I’m <b className="purple">Apoorv Verma</b> — a Full Stack
+            Developer and Team Lead who writes code with precision and leads
+            with purpose. Born in Patna and seasoned across cities, my career is
+            a reflection of relentless curiosity and growth.
             <br />
             <br />
-            My academic journey started at Doon International School in
-            Dehradun, where discipline and character were instilled in me. I
-            later completed a Bachelor's in Electronics and Telecommunication in
-            2020, expanding my knowledge in technology. Following my graduation,
-            I secured a campus placement at First Advantage and worked there as
-            an Operational Analyst until December 2022.
+            After graduating in Electronics and Telecommunication Engineering in
+            2020, I began my journey at First Advantage. But it was in 2022, at{" "}
+            <b className="purple">FunctionUp</b>, where my developer journey
+            truly took shape. I evolved from a frontend trainee to a Teaching
+            Assistant, mentoring others and diving deep into ReactJS.
             <br />
             <br />
-            In January 2023, I joined Function Up, a bootcamp focused on honing
-            development skills, to embark on my front-end developer career as a
-            trainee. Due to my excellent performance, I was promoted to the role
-            of Teaching Assistant, where I conducted live doubt classes and
-            mentored junior trainees on various ReactJS projects.
+            My path led me to impactful collaborations with companies like{" "}
+            <b className="purple">Snabbtech</b>, before taking on a leadership
+            role at <b className="purple">Protech Business Consulting</b>. Here,
+            I architect full-stack systems — building commercial-grade
+            platforms, leading team sprints, managing role-based workflows, OTP
+            auth flows, and even handling massive datasets of over 40 million
+            records.
             <br />
             <br />
-            In addition to my work at Function Up, I have had the opportunity to work with
-            **Snabbtech**, a tech company that focuses on innovative solutions in the
-            frontend development space. This collaboration has significantly
-            enhanced my skills in web development, particularly with ReactJS and
-            modern JavaScript frameworks.
+            Outside of work, I express through{" "}
+            <b className="purple">blogging</b>, sharing thoughts on technology,
+            mental health, and personal growth. You’ll often find me cruising on
+            my Royal Enfield, enjoying the hum of the engine and the stillness
+            of open roads. 🏍️
             <br />
             <br />
-            I'm also a dedicated blogger, sharing insights on
-            mental health, time management, and personal growth. Outside work, I enjoy
-            road trips on my trusty bullet, appreciating the beauty of the world.
+            Every day, I aim to balance tech, mentorship, and mindfulness —
+            coding not just for systems, but for experiences that leave a mark.
             <br />
             <br />
-            I thrive on challenges and continuous learning, bringing a unique
-            blend of skills to any team or project. I'm excited to contribute to
-            technology and more, embracing innovation and growth.
-            <br />
-            <br />
-            Let's embark on a journey of innovation and growth
-            together.
+            Let’s connect and build something meaningful — in code, in life, or
+            on the next great road trip.
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Mentoring Developers
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Blogging about Tech & Growth
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Riding through Nature Trails 🏍️
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)", textAlign: "right" }}>
-            <strong className="purple">"Seek What Sets Your Soul On Fire !"</strong>
+            <strong className="purple">
+              "Write code that speaks. Live a life that inspires."
+            </strong>
           </p>
           <footer className="blockquote-footer" style={{ textAlign: "right" }}>
             <strong className="purple">Apoorv Verma</strong>

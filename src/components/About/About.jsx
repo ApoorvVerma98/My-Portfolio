@@ -25,8 +25,10 @@ function About() {
               Know Who <strong className="purple">I'M</strong>
             </h1>
             <h4>
-            <strong className="purple">Dynamic Professional</strong> with a<strong className="purple"> Passion for Technology</strong>,<strong className="purple">Writing blogs</strong> ,
-              and <strong className="purple">Gaming</strong>.
+              <strong className="purple">Dynamic Professional</strong> with a
+              <strong className="purple"> Passion for Technology</strong>,
+              <strong className="purple">Writing blogs</strong> , and{" "}
+              <strong className="purple">Gaming</strong>.
             </h4>
             <Aboutcard />
           </Col>

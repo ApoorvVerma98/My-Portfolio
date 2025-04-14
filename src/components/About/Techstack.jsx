@@ -9,14 +9,20 @@ import {
 } from "react-icons/di";
 import {
   SiAxios,
-  SiYarn,
   SiVite,
   SiFigma,
+  SiTypescript,
+  SiMongodb,
+  SiExpress,
+  SiRedux,
+  SiTailwindcss,
+  SiPython,
+  SiFlask,
+  SiJsonwebtokens,
 } from "react-icons/si";
 import { AiFillHtml5 } from "react-icons/ai";
 import { SiCss3 } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
-import { TbBrandRedux } from "react-icons/tb";
 import { FaBootstrap } from "react-icons/fa";
 
 function Techstack() {
@@ -31,29 +37,38 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons" title="JavaScript">
         <DiJavascript1 />
       </Col>
+      <Col xs={4} md={2} className="tech-icons" title="TypeScript">
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="React.js">
+        <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="Redux Toolkit">
+        <SiRedux />
+      </Col>
       <Col xs={4} md={2} className="tech-icons" title="Node.js">
         <DiNodejs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons" title="React">
-        <DiReact />
+      <Col xs={4} md={2} className="tech-icons" title="Express.js">
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="MongoDB">
+        <SiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="JWT Auth">
+        <SiJsonwebtokens />
       </Col>
       <Col xs={4} md={2} className="tech-icons" title="Next.js">
         <TbBrandNextjs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons" title="Redux">
-        <TbBrandRedux />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons" title="Git">
-        <DiGit />
+      <Col xs={4} md={2} className="tech-icons" title="Tailwind CSS">
+        <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons" title="Bootstrap">
         <FaBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons" title="Axios">
         <SiAxios />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons" title="Yarn">
-        <SiYarn />
       </Col>
       <Col xs={4} md={2} className="tech-icons" title="Vite">
         <SiVite />
@@ -64,8 +79,14 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons" title="Figma">
         <SiFigma />
       </Col>
+      <Col xs={4} md={2} className="tech-icons" title="Python">
+        <SiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="Flask">
+        <SiFlask />
+      </Col>
     </Row>
   );
 }
- 
+
 export default Techstack;
