@@ -755,3 +755,32 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+
+/* 🌌 Stylish Dropdown Customization */
+.navbar .dropdown-menu {
+  background-color: rgba(27, 17, 45, 0.92) !important;
+  border: 1px solid rgba(197, 112, 240, 0.3) !important;
+  border-radius: 12px !important;
+  padding: 0.5rem 0 !important;
+  box-shadow: 0 4px 12px rgba(142, 68, 173, 0.3) !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.navbar .dropdown-item {
+  color: #d8b1f3 !important;
+  font-size: 1rem;
+  padding: 0.6rem 1.25rem;
+  transition: background 0.3s ease, padding-left 0.2s ease;
+}
+
+.navbar .dropdown-item:hover {
+  background-color: rgba(199, 112, 240, 0.15) !important;
+  color: #ffffff !important;
+  padding-left: 1.5rem;
+  font-weight: 500;
+}
+
+.navbar .dropdown-divider {
+  border-top: 1px solid rgba(199, 112, 240, 0.3);
+}
